@@ -1,7 +1,11 @@
 # Paper-Scissors-game
+Who did not play this game when he way young even tell now we are playing it with our freinds, this experience will make U challenge the computer in a good and funny way
 
+# what I learnt
+I learned to use tkinter library and the logic behind the game and this was awesome even I used a CLI version in the first commit before making the GUI.
 
-
+# How to run 
+Go to releases and run the .exe file
 
 
 
