@@ -12,7 +12,8 @@ Overall, this was a really fun project and a great way to practice both Python p
 
 Go to the Releases section and download the `.exe` file, then run it and start playing against the computer.
 
-
+# What Make it unique
+the awesome images and gifs I added and downloaded to make the project unique and did not made this way before
 
 
 
